@@ -5,11 +5,11 @@ This project is a simple password generator that creates secure and random passw
 
 ## Project Structure
 .
-├── .gitattributes
-├── README.md
-├── index.html
-├── index.js
-└── style.css
+├── .gitattributes <br/>
+├── README.md <br/>
+├── index.html <br/>
+├── index.js <br/>
+└── style.css <br/>
 
 ### Files and Directories
 
