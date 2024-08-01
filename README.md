@@ -4,7 +4,6 @@
 This project is a simple password generator that creates secure and random passwords based on user-defined criteria. The application is built using HTML, CSS, and JavaScript.
 
 ## Project Structure
-.
 ├── .gitattributes <br/>
 ├── README.md <br/>
 ├── index.html <br/>
